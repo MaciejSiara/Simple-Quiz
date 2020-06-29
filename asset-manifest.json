@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Simple-Quiz/static/css/main.5cac781e.chunk.css",
+    "main.js": "/Simple-Quiz/static/js/main.d96204bf.chunk.js",
+    "main.js.map": "/Simple-Quiz/static/js/main.d96204bf.chunk.js.map",
+    "runtime-main.js": "/Simple-Quiz/static/js/runtime-main.a82b976e.js",
+    "runtime-main.js.map": "/Simple-Quiz/static/js/runtime-main.a82b976e.js.map",
+    "static/js/2.937432f2.chunk.js": "/Simple-Quiz/static/js/2.937432f2.chunk.js",
+    "static/js/2.937432f2.chunk.js.map": "/Simple-Quiz/static/js/2.937432f2.chunk.js.map",
+    "index.html": "/Simple-Quiz/index.html",
+    "precache-manifest.824c2fdf2a9aba85314b5e692e15f7dd.js": "/Simple-Quiz/precache-manifest.824c2fdf2a9aba85314b5e692e15f7dd.js",
+    "service-worker.js": "/Simple-Quiz/service-worker.js",
+    "static/css/main.5cac781e.chunk.css.map": "/Simple-Quiz/static/css/main.5cac781e.chunk.css.map",
+    "static/js/2.937432f2.chunk.js.LICENSE.txt": "/Simple-Quiz/static/js/2.937432f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a82b976e.js",
+    "static/js/2.937432f2.chunk.js",
+    "static/css/main.5cac781e.chunk.css",
+    "static/js/main.d96204bf.chunk.js"
+  ]
+}
