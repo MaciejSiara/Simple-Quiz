@@ -5,7 +5,7 @@
 ## Used technologies
 -  React
 -  React Hooks
-   -  usuState,
+   -  useState,
    -  useEffect,
    -  useRef
 -  SASS
