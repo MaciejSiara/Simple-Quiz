@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from "react";
 import FlashcardList from "./FlashcardList";
-import "./App.scss";
+import "./styles/App.scss";
 import axios from "axios";
 
 function App() {
